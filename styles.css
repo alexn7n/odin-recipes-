@@ -1,0 +1,46 @@
+body {
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #4e4e4e;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+    text-transform: uppercase;
+    color: black;
+    font-weight: 700;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+.recipe-card {
+    background-color: #f8ecdd;
+    width: 800px;
+    border-radius: 10px;
+    padding: 24px;
+    }
+
+.description-card {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 16px;
+    border-radius: 12px;
+}
+
+.description-card p {
+    font-style: italic;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
